@@ -1,10 +1,9 @@
 package day2;
 
-public class login {
-
-        //template is created
-        // working on login page
-        //almost done
-    //comppleted
+public class Login {
+    public static void main(String[] args) {
+        // page is created
+        // am working on login page
+        // completed
     }
-
+}
